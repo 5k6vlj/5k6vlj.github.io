@@ -1,0 +1,17 @@
+# hexo robots.txt
+User-agent: * Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /article/
+Allow: /about/
+Allow: /links/
+
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /img/
+Disallow: /file/
+Disallow: /tool/
+
+Sitemap: https://www.xifenghhh.top/sitemap.xml
+Sitemap: https://www.xifenghhh.top/baidusitemap.xml
